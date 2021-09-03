@@ -1,4 +1,5 @@
-// 在此处添加您的代码
+//%block="空战Helpers"
+//%weight=100 color=#E29E28 icon="\u2708"
 namespace shooter_helper {
 
     let barWidth = NaN;
